@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dvk2k8fs9
+  api_key: '186779271483157'
+  api_secret: J_4FHS5JQIIhpXSbvrlXp_88hn0
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dvk2k8fs9
+  api_key: '186779271483157'
+  api_secret: J_4FHS5JQIIhpXSbvrlXp_88hn0
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dvk2k8fs9
+  api_key: '186779271483157'
+  api_secret: J_4FHS5JQIIhpXSbvrlXp_88hn0
+  enhance_image_tag: true
+  static_image_support: false
